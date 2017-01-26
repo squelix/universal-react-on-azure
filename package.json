@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Universal React example running on Windows Azure",
   "main": "index.js",
+  "engines":{"node": "6.9.1"},
   "scripts": {
     "prestart": "npm run build",
     "start": "node index.js",
