@@ -41,6 +41,7 @@
     "parallelshell": "^1.1.1",
     "react-hot-loader": "^1.2.7",
     "webpack-dev-server": "^1.9.0",
-    "webpack": "^1.9.6"
+    "webpack": "^1.9.6",
+    "strip-loader": "^0.1.2"
   }
 }
